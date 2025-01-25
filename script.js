@@ -13,9 +13,6 @@ let expenses =
 
 // Function to render expenses in tabular form 
 function renderExpenses() { 
-
-
-
 	// Clear expense list 
 	expenseList.innerHTML = ""; 
 
