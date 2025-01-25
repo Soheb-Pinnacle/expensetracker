@@ -1,3 +1,6 @@
+var x= 200;
+var y = 300;
+var z=y-x;
 // script.js 
 // Get form, expense list, and total amount elements 
 const expenseForm = 
