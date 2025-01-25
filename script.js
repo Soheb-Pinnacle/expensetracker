@@ -1,3 +1,6 @@
+const a = 20;
+const b = 30;
+const c = a + b;
 // script.js 
 // Get form, expense list, and total amount elements 
 const expenseForm = 
