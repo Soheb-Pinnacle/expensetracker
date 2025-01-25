@@ -1,6 +1,6 @@
-const a = 20;
-const b = 30;
-const c = a + b;
+var x= 200;
+var y = 300;
+var z=y-x;
 // script.js 
 // Get form, expense list, and total amount elements 
 const expenseForm = 
